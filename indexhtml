@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<title>AluraBooks</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<h1>AluraBook</h1>
+<p>"O homem que não lê bons livros não tem nem uma vantagem sobre o homem que não sabe ler"</p>
+<img src="frioecalculista.jpg">
+<a href="https://www.amazon.com.br/" target="_blank">amazon</a>
+</body>
+
+</html>
+<ul>
+    <li>pai rico pai pobre</li>
+    <li>48 leis do poder</li>
+    <li>mente milionaria</li>
+<li>manual de persuasão do fbi</li>
+<li>antiotario</li>
+<li>o homem mais rico da babilonia</li>
+<li>armas da persuasão</li>
+<li>como fazer amigos e influenciar pessoas</li>
+<li>arte da guerra</li>
+<li>mais esperto que o diabo</li>
+</ul>
+
