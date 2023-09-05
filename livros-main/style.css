@@ -1,0 +1,35 @@
+body{
+background-color: rgb(123, 123, 241);
+}
+img{width: 700px}
+header {
+    /* cor de fundo */
+    background-color: rgb(111, 194, 194);
+    /* cor do texto */
+    color: #050505;
+    /* alinhamento do texto */
+    text-align: center;
+    /* preenchimento */
+    padding: 15px;
+}
+
+.imagem {
+    display: flex;
+
+}
+
+footer {
+    /* cor de fundo */
+    background-color: rgb(111, 194, 194);
+    /* cor do texto */
+    color: #050505;
+    /* alinhamento do texto */
+    text-align: center;
+    /* preenchimento */
+    padding: 15px;
+}
+
+a:hover {
+    /* Alterar a cor do texto quando o mouse estiver sobre o link */
+    color: #009688;
+}
