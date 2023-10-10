@@ -1,0 +1,36 @@
+h2{
+font-size: 30px;
+margin-top: 30px;
+color: blue;
+}
+
+.form-group{
+margin-bottom: 15px;
+}
+
+label{
+
+display: block;
+margin-bottom: 15px;
+font-weight: bold;
+color: chartreuse;
+}
+input[type=text],
+input[type=email],
+input[type=password]{
+width:65%;
+padding:10px;
+border:1px solidcolor#ccc;
+border-radius:5px;
+font-size:16px;
+}
+input[type=sbmit] {
+background-color: blue;
+color: black;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+font-size: 18px;
+transition: background-color0.3s;
+}
